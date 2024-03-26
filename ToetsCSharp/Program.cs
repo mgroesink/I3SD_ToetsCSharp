@@ -19,6 +19,7 @@
         // Probeer een eigenaar toe te voegen met een geboortedatum in de toekomst
         // Zorg ervoor dat er een exception wordt opgegooid en toon deze exception
 
+        Console.WriteLine();
         Console.WriteLine("Druk op een willekeurige toets om af te sluiten");
         Console.ReadKey();
     }
