@@ -13,6 +13,11 @@
         // Geef alle gegevens van de auto weer inclusief de gegevens van de eigenaar
         // Laat de gegevens van de eigenaar één tab inspringen
 
+        // Probeer een auto toe te voegen met een bouwjaar in de toekomst
+        // Zorg ervoor dat er een exception wordt opgegooid en toon deze exception
+
+        // Probeer een eigenaar toe te voegen met een geboortedatum in de toekomst
+        // Zorg ervoor dat er een exception wordt opgegooid en toon deze exception
 
         Console.WriteLine("Druk op een willekeurige toets om af te sluiten");
         Console.ReadKey();
